@@ -20,4 +20,4 @@ output: 10
 
 test #6
 input: 64; 42
-output: 10
+output: 12
